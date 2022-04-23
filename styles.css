@@ -9,12 +9,12 @@
 }
 @font-face {
     font-family: WorkSans-SemiBold;
-    src: url(./fonts/static/WorkSans-SemiBold.ttf);
+    src: url(../fonts/static/WorkSans-SemiBold.ttf);
     font-weight: bold;
 }
 @font-face {
     font-family: WorkSans-Regular;
-    src: url(./fonts/static/WorkSans-Regular.ttf);
+    src: url(../fonts/static/WorkSans-Regular.ttf);
     font-weight: normal;
 }
 a {
